@@ -21,7 +21,7 @@ p{
     margin-bottom: 130px;
 }
 span{
-    color: orangered;
+    color: rgb(255, 81, 0);
 }
 .two-column{
     width: 50%;
@@ -54,8 +54,8 @@ span{
     padding-left: 20px;
 }
 .motivations{
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .Wilson{
     width: 90%;
@@ -78,6 +78,11 @@ span{
     margin-right: 15px;
     margin-left: 15px;
 }
+h4{
+    color: brown;
+    font-size: 20px;
+    font-weight: 400;
+}
 .image{
     width: 40%;
     padding-top: 3%;
@@ -89,7 +94,7 @@ span{
 .left-side img{
     width: 55%;
     margin-left: 35%;
-    margin-top: 7%;
+    margin-top: 10%;
 }
 .right-side{
     width: 60%;
@@ -130,4 +135,16 @@ footer{
     text-align: center;
     padding-bottom: 20px;
     font-size: 20px;
+}
+.corona{
+    width: 50%;
+}
+.corona img{
+    width: 60%;
+    height: 450px;
+    margin-left: 25%;
+}
+.corona-right{
+    padding-right: 40px;
+    padding-top: 5%;
 }
